@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "132004026688",
+    "firebase_url": "https://homesecurity-65358.firebaseio.com",
+    "project_id": "homesecurity-65358",
+    "storage_bucket": "homesecurity-65358.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132004026688:android:139e14eaa6ccabbc",
+        "android_client_info": {
+          "package_name": "com.example.bhaum.homesecurity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132004026688-cc64ddfd4gus0ov000qnbpcq4177cp1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bhaum.homesecurity",
+            "certificate_hash": "f8ba37865a74957650154d3f830042ebc91721e2"
+          }
+        },
+        {
+          "client_id": "132004026688-g69gg35ic138o6bpb03tije4t2v94q0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClRLYW4FyQfIJvntpH6sLspTxboFH4KGI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132004026688-g69gg35ic138o6bpb03tije4t2v94q0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
